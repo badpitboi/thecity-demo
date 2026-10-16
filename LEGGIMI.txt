@@ -1,0 +1,20 @@
+THE CITY - build di prova (versione del 15 ottobre 2026)
+
+WINDOWS
+1. Estrai TheCity_Windows.zip (tasto destro > Estrai tutto).
+2. Apri la cartella TheCity e fai doppio clic su TheCity.exe.
+3. Se Windows mostra "Windows ha protetto il PC": clicca "Ulteriori informazioni"
+   e poi "Esegui comunque" (il gioco non e' firmato con un certificato a pagamento).
+
+MAC (Intel e Apple Silicon)
+1. Fai doppio clic su TheCity_macOS.zip: compare "The City.app".
+2. Trascina l'app nella cartella Applicazioni (facoltativo).
+3. La prima volta: tasto destro (o Ctrl+clic) sull'app > Apri > Apri.
+   Se macOS dice che l'app "non puo' essere aperta":
+   Impostazioni di Sistema > Privacy e sicurezza > in fondo "Apri comunque".
+
+Il gioco parte a schermo intero; dal menu: Opzioni (Tab / Select) > Schermo intero
+per passare in finestra.
+
+Requisiti: scheda video con Vulkan (Windows) o Metal (Mac).
+Si gioca con mouse e tastiera o con un controller.
